@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is RubyQWER ================================================================================================================================  * 🌍  I'm based in Chiangmai Thailand * ✉️  You can contact me at [Chanatpong1234@gmail.com](mailto:Chanatpong1234@gmail.com) * 🧠  I'm learning RMUTL LANNA
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is RubyQWER   * 🌍  I'm based in Chiangmai Thailand * ✉️  You can contact me at [Chanatpong1234@gmail.com](mailto:Chanatpong1234@gmail.com) * 🧠  I'm learning RMUTL LANNA
 
 <a href="https://www.github.com/RubyQWER " target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/RubyQWER ?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a>
 ### Skills  
